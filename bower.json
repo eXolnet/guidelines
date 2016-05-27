@@ -1,0 +1,16 @@
+{
+  "name": "exolnet-guidelines",
+  "description": "TBD",
+  "homepage": "https://github.com/eXolnet/guidelines",
+  "moduleType": "globals",
+  "main": [
+    "scss/guidelines.scss",
+    "dist/js/bootstrap.js"
+  ],
+  "ignore": [
+    "/.*",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+  ]
+}
