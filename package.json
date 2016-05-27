@@ -1,0 +1,17 @@
+{
+  "name": "exolnet-guidelines",
+  "description": "TBD",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eXolnet/guidelines",
+  "author": "eXolnet Inc.",
+  "style": "dist/css/exolnet-guidelines.css",
+  "scss": "scss/guidelines.scss",
+  "main": "./dist/js/npm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eXolnet/guidelines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eXolnet/guidelines/issues"
+  }
+}
