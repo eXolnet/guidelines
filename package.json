@@ -13,5 +13,8 @@
   },
   "bugs": {
     "url": "https://github.com/eXolnet/guidelines/issues"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.0"
   }
 }
