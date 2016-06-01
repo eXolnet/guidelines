@@ -15,6 +15,7 @@
     "url": "https://github.com/eXolnet/guidelines/issues"
   },
   "dependencies": {
-    "bootstrap-sass": "^3.3.0"
+    "bootstrap-sass": "^3.3.0",
+    "font-awesome": "*"
   }
 }
